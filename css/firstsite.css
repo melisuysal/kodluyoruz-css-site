@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(236, 226, 226);
+}
+
+h1 , h2 , h3 {
+    text-align: center;
+    color: purple;
+}
+
+p{
+    text-align: center;
+    color: rgb(14, 145, 14);
+}
+
+ul , ol {
+    display: table;
+    margin: 0 auto;
+    font-weight: bold;
+    font-style: italic;
+} 
+
+img {
+    width: 300px;
+    display: table;
+    margin: 0 auto;
+}
+
+span {
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.nav-ul{
+    display: inline;
+    padding-right: 20px;
+}
